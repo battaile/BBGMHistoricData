@@ -486,7 +486,7 @@
             "#d75f27",
             "#e7d3ae"
         ],
-        "imgURL": "https://i.ibb.co/9Hxz69Y/phw.png",
+        "imgURL": "https://raw.githubusercontent.com/EthanM827/BBGMHistoricData/phwLogo/phw.svg",
         "name": "Warriors",
         "pop": 5.5,
         "region": "Philadelphia"
