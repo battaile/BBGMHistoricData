@@ -1,674 +1,674 @@
 {
-  "SYR": {
-    "abbrev": "SYR",
-    "colors": [
-      "#bee6f6",
-      "#ffe67b",
-      "#3a3a3a"
-    ],
-    "imgURL": "https://i.ibb.co/qWHx4Mv/syr.png",
-    "name": "Nationals",
-    "pop": 0.6,
-    "region": "Syracuse"
-  },
-  "BOS": {
-    "abbrev": "BOS",
-    "colors": [
-      "#0d435e",
-      "#f0494a",
-      "#cccccc"
-    ],
-    "imgURL": "https://i.ibb.co/vJf2T1n/bos.png",
-    "name": "Celtics",
-    "pop": 7.3,
-    "region": "Boston"
-  },
-  "NYK": {
-    "abbrev": "NYK",
-    "colors": [
-      "#1e73ba",
-      "#ff8500",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/F32jTfN/nyk.png",
-    "name": "Knicks",
-    "pop": 21.5,
-    "region": "New York"
-  },
-  "PHW": {
-    "abbrev": "PHI",
-    "colors": [
-      "#0e442e",
-      "#d75f27",
-      "#e7d3ae"
-    ],
-    "imgURL": "https://i.ibb.co/9Hxz69Y/phw.png",
-    "name": "Warriors",
-    "pop": 5.5,
-    "region": "Philadelphia"
-  },
-  "ROC": {
-    "abbrev": "ROC",
-    "colors": [
-      "#e4c649",
-      "#735823",
-      "#f8e19f"
-    ],
-    "imgURL": "https://i.ibb.co/J7C6BtG/roc.png",
-    "name": "Royals",
-    "pop": 1.08,
-    "region": "Rochester"
-  },
-  "MNL": {
-    "abbrev": "MIN",
-    "colors": [
-      "#000000",
-      "#cccccc",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/CW9SXHy/mnl.png",
-    "name": "Lakers",
-    "pop": 2.8,
-    "region": "Minneapolis"
-  },
-  "FTW": {
-    "abbrev": "FTW",
-    "colors": [
-      "#3a5eab",
-      "#708fc7",
-      "#0a1130"
-    ],
-    "imgURL": "https://i.ibb.co/KL0nBsW/ftw.png",
-    "name": "Pistons",
-    "pop": 0.4,
-    "region": "Fort Wayne"
-  },
-  "STL": {
-    "abbrev": "STL",
-    "colors": [
-      "#5c4a99",
-      "#f0e81c",
-      "#211e1e"
-    ],
-    "imgURL": "https://i.ibb.co/P1pkMq5/stl.png",
-    "name": "Hawks",
-    "pop": 2.2,
-    "region": "St. Louis"
-  },
-  "CIN": {
-    "abbrev": "CIN",
-    "colors": [
-      "#e4c649",
-      "#735823",
-      "#f8e19f"
-    ],
-    "imgURL": "https://i.ibb.co/pnL5vSr/cin.png",
-    "name": "Royals",
-    "pop": 1.6,
-    "region": "Cincinnati"
-  },
-  "DET": {
-    "abbrev": "DET",
-    "colors": [
-      "#3a5eab",
-      "#708fc7",
-      "#0a1130"
-    ],
-    "imgURL": "https://i.ibb.co/FsZsSv5/det.png",
-    "name": "Pistons",
-    "pop": 4,
-    "region": "Detroit"
-  },
-  "LAL": {
-    "abbrev": "LAL",
-    "colors": [
-      "#000000",
-      "#cccccc",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/WWQrnDX/lal.png",
-    "name": "Lakers",
-    "pop": 15.6,
-    "region": "Los Angeles"
-  },
-  "CHP": {
-    "abbrev": "CHI",
-    "colors": [
-      "#213063",
-      "#c5ae6e",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/sbxrTVN/chp.png",
-    "name": "Packers",
-    "pop": 9.1,
-    "region": "Chicago"
-  },
-  "SFW": {
-    "abbrev": "SF",
-    "colors": [
-      "#0e442e",
-      "#d75f27",
-      "#e7d3ae"
-    ],
-    "imgURL": "https://i.ibb.co/Zm9VS7S/sfw.png",
-    "name": "Warriors",
-    "pop": 6.5,
-    "region": "San Francisco"
-  },
-  "CHZ": {
-    "abbrev": "CHI",
-    "colors": [
-      "#213063",
-      "#c5ae6e",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/zxDksHY/chz.png",
-    "name": "Zephyrs",
-    "pop": 9.1,
-    "region": "Chicago"
-  },
-  "PHI": {
-    "abbrev": "PHI",
-    "colors": [
-      "#bee6f6",
-      "#ffe67b",
-      "#3a3a3a"
-    ],
-    "imgURL": "https://i.ibb.co/KNcpxV2/phi.png",
-    "name": "76ers",
-    "pop": 5.5,
-    "region": "Philadelphia"
-  },
-  "BAL": {
-    "abbrev": "BAL",
-    "colors": [
-      "#213063",
-      "#c5ae6e",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/vkmNKfG/bal.png",
-    "name": "Bullets",
-    "pop": 2.7,
-    "region": "Baltimore"
-  },
-  "CHI": {
-    "abbrev": "CHI",
-    "colors": [
-      "#ef670a",
-      "#caeaf9",
-      "#d3d3d3"
-    ],
-    "imgURL": "https://i.ibb.co/TBQ0C9y/chi.png",
-    "name": "Bulls",
-    "pop": 9.1,
-    "region": "Chicago"
-  },
-  "SEA": {
-    "abbrev": "SEA",
-    "colors": [
-      "#000000",
-      "#cccccc",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/j5DhX8t/sea.png",
-    "name": "Supersonics",
-    "pop": 3.8,
-    "region": "Seattle"
-  },
-  "SDR": {
-    "abbrev": "SDR",
-    "colors": [
-      "#4c91c2",
-      "#c4c4c3",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/gVz9rxn/sdr.png",
-    "name": "Rockets",
-    "pop": 4.7,
-    "region": "San Diego"
-  },
-  "ATL": {
-    "abbrev": "ATL",
-    "colors": [
-      "#5c4a99",
-      "#f0e81c",
-      "#211e1e"
-    ],
-    "imgURL": "https://i.ibb.co/gtxfHxm/atl.png",
-    "name": "Hawks",
-    "pop": 5.3,
-    "region": "Atlanta"
-  },
-  "MIL": {
-    "abbrev": "MIL",
-    "colors": [
-      "#000000",
-      "#cccccc",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/kMk9q24/mil.png",
-    "name": "Bucks",
-    "pop": 1.5,
-    "region": "Milwaukee"
-  },
-  "PHO": {
-    "abbrev": "PHX",
-    "colors": [
-      "#d17d2a",
-      "#231f20",
-      "#c09867"
-    ],
-    "imgURL": "https://i.ibb.co/ccZpz4s/phx.png",
-    "name": "Suns",
-    "pop": 4.3,
-    "region": "Phoenix"
-  },
-  "BUF": {
-    "abbrev": "BUF",
-    "colors": [
-      "#6b6b6b",
-      "#f15d24",
-      "#dedddd"
-    ],
-    "imgURL": "https://i.ibb.co/6ssL6PJ/buf.png",
-    "name": "Braves",
-    "pop": 1.1,
-    "region": "Buffalo"
-  },
-  "CLE": {
-    "abbrev": "CLE",
-    "colors": [
-      "#211e1e",
-      "#f8e3cc",
-      "#3f1c59"
-    ],
-    "imgURL": "https://i.ibb.co/hZZQfGF/cle.png",
-    "name": "Cavaliers",
-    "pop": 1.7,
-    "region": "Cleveland"
-  },
-  "POR": {
-    "abbrev": "POR",
-    "colors": [
-      "#e41d34",
-      "#1e1e1e",
-      "#e7a9cc"
-    ],
-    "imgURL": "https://i.ibb.co/yqnP2pL/por.png",
-    "name": "Trailblazers",
-    "pop": 2,
-    "region": "Portland"
-  },
-  "GSW": {
-    "abbrev": "GSW",
-    "colors": [
-      "#0e442e",
-      "#d75f27",
-      "#e7d3ae"
-    ],
-    "imgURL": "https://i.ibb.co/q5vrBkJ/gsw.png",
-    "name": "Warriors",
-    "pop": 6.5,
-    "region": "Golden State"
-  },
-  "HOU": {
-    "abbrev": "HOU",
-    "colors": [
-      "#4c91c2",
-      "#c4c4c3",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/sJhXk8S/hou.png",
-    "name": "Rockets",
-    "pop": 6.2,
-    "region": "Houston"
-  },
-  "KCO": {
-    "abbrev": "KCO",
-    "colors": [
-      "#e4c649",
-      "#735823",
-      "#f8e19f"
-    ],
-    "imgURL": "https://i.ibb.co/gJ4v4rx/kco.png",
-    "name": "Kings",
-    "pop": 1.6,
-    "region": "Kansas City-Omaha"
-  },
-  "CAP": {
-    "abbrev": "CAP",
-    "colors": [
-      "#213063",
-      "#c5ae6e",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/r4yTTMZ/cap.png",
-    "name": "Bullets",
-    "pop": 6.2,
-    "region": "Capital"
-  },
-  "WSB": {
-    "abbrev": "WSB",
-    "colors": [
-      "#213063",
-      "#c5ae6e",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/hRL3mCd/wsb.png",
-    "name": "Bullets",
-    "pop": 6.2,
-    "region": "Washington"
-  },
-  "NOJ": {
-    "abbrev": "NOJ",
-    "colors": [
-      "#000000",
-      "#cccccc",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/8g6MxvR/noj.png",
-    "name": "Jazz",
-    "pop": 1.1,
-    "region": "New Orleans"
-  },
-  "KCK": {
-    "abbrev": "KC",
-    "colors": [
-      "#e4c649",
-      "#735823",
-      "#f8e19f"
-    ],
-    "imgURL": "https://i.ibb.co/dPshLbD/kck.png",
-    "name": "Kings",
-    "pop": 1.6,
-    "region": "Kansas City"
-  },
-  "NYN": {
-    "abbrev": "NYN",
-    "colors": [
-      "#000000",
-      "#cccccc",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/GMDw781/nyn.png",
-    "name": "Nets",
-    "pop": 21.5,
-    "region": "New York"
-  },
-  "SAS": {
-    "abbrev": "SAS",
-    "colors": [
-      "#4a2b14",
-      "#30d9ff",
-      "#704723"
-    ],
-    "imgURL": "https://i.ibb.co/NFQjBb1/sas.png",
-    "name": "Spurs",
-    "pop": 2,
-    "region": "San Antonio"
-  },
-  "DEN": {
-    "abbrev": "DEN",
-    "colors": [
-      "#216935",
-      "#163a1c",
-      "#a1d297"
-    ],
-    "imgURL": "https://i.ibb.co/FYLTG0B/den.png",
-    "name": "Nuggets",
-    "pop": 2.7,
-    "region": "Denver"
-  },
-  "IND": {
-    "abbrev": "IND",
-    "colors": [
-      "#000000",
-      "#cccccc",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/C29mZVD/ind.png",
-    "name": "Pacers",
-    "pop": 1.6,
-    "region": "Indianapolis"
-  },
-  "NJN": {
-    "abbrev": "NJ",
-    "colors": [
-      "#000000",
-      "#cccccc",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/ZN9qL9Z/njn.png",
-    "name": "Nets",
-    "pop": 4.6,
-    "region": "New Jersey"
-  },
-  "SDC": {
-    "abbrev": "SD",
-    "colors": [
-      "#6b6b6b",
-      "#f15d24",
-      "#dedddd"
-    ],
-    "imgURL": "https://i.ibb.co/9hGc6gH/sdc.png",
-    "name": "Clippers",
-    "pop": 4.7,
-    "region": "San Diego"
-  },
-  "UTA": {
-    "abbrev": "UTA",
-    "colors": [
-      "#000000",
-      "#cccccc",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/52JqWtJ/uta.png",
-    "name": "Jazz",
-    "pop": 2.3,
-    "region": "Utah"
-  },
-  "DAL": {
-    "abbrev": "DAL",
-    "colors": [
-      "#be2026",
-      "#2b2e81",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/Jc06vRj/dal.png",
-    "name": "Mavericks",
-    "pop": 6.6,
-    "region": "Dallas"
-  },
-  "LAC": {
-    "abbrev": "LAC",
-    "colors": [
-      "#6b6b6b",
-      "#f15d24",
-      "#dedddd"
-    ],
-    "imgURL": "https://i.ibb.co/PDTbYhm/lac.png",
-    "name": "Clippers",
-    "pop": 15.6,
-    "region": "Los Angeles"
-  },
-  "SAC": {
-    "abbrev": "SAC",
-    "colors": [
-      "#e4c649",
-      "#735823",
-      "#f8e19f"
-    ],
-    "imgURL": "https://i.ibb.co/YN1zMRv/sac.png",
-    "name": "Kings",
-    "pop": 1.8,
-    "region": "Sacramento"
-  },
-  "CHH": {
-    "abbrev": "CHA",
-    "colors": [
-      "#000000",
-      "#cccccc",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/BrHTNwT/chh.png",
-    "name": "Hornets",
-    "pop": 1.5,
-    "region": "Charlotte"
-  },
-  "MIA": {
-    "abbrev": "MIA",
-    "colors": [
-      "#d8519d",
-      "#4ac1c0",
-      "#f15949"
-    ],
-    "imgURL": "https://i.ibb.co/2qct221/mia.png",
-    "name": "Heat",
-    "pop": 6.1,
-    "region": "Miami"
-  },
-  "ORL": {
-    "abbrev": "ORL",
-    "colors": [
-      "#000000",
-      "#cccccc",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/XtBcWgN/orl.png",
-    "name": "Magic",
-    "pop": 2.2,
-    "region": "Orlando"
-  },
-  "MIN": {
-    "abbrev": "MIN",
-    "colors": [
-      "#3d2971",
-      "#8accdc",
-      "#ed9a22"
-    ],
-    "imgURL": "https://i.ibb.co/6Hmrrnm/min.png",
-    "name": "Timberwolves",
-    "pop": 2.8,
-    "region": "Minnesota"
-  },
-  "TOR": {
-    "abbrev": "TOR",
-    "colors": [
-      "#832525",
-      "#5e372c",
-      "#331b16"
-    ],
-    "imgURL": "https://i.ibb.co/J2wfCsv/tor.png",
-    "name": "Raptors",
-    "pop": 6.6,
-    "region": "Toronto"
-  },
-  "VAN": {
-    "abbrev": "VAN",
-    "colors": [
-      "#000000",
-      "#cccccc",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/10qqLdV/van.png",
-    "name": "Grizzlies",
-    "pop": 2.3,
-    "region": "Vancouver"
-  },
-  "WAS": {
-    "abbrev": "WAS",
-    "colors": [
-      "#213063",
-      "#c5ae6e",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/GcdwLvr/was.png",
-    "name": "Wizards",
-    "pop": 6.2,
-    "region": "Washington"
-  },
-  "MEM": {
-    "abbrev": "MEM",
-    "colors": [
-      "#000000",
-      "#cccccc",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/bQ9gZx1/mem.png",
-    "name": "Grizzlies",
-    "pop": 1.3,
-    "region": "Memphis"
-  },
-  "NOH": {
-    "abbrev": "NOH",
-    "colors": [
-      "#000000",
-      "#cccccc",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/jJmfM30/noh.png",
-    "name": "Hornets",
-    "pop": 1.1,
-    "region": "New Orleans"
-  },
-  "CHO": {
-    "abbrev": "CHA",
-    "colors": [
-      "#000000",
-      "#cccccc",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/qYJh78b/cha.png",
-    "name": "Hornets",
-    "pop": 1.5,
-    "region": "Charlotte"
-  },
-  "OKC": {
-    "abbrev": "OKC",
-    "colors": [
-      "#000000",
-      "#cccccc",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/cXgLtmz/okc.png",
-    "name": "Thunder",
-    "pop": 1.4,
-    "region": "Oklahoma City"
-  },
-  "BRK": {
-    "abbrev": "BKN",
-    "colors": [
-      "#000000",
-      "#cccccc",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/xfnJVrB/bkn.png",
-    "name": "Nets",
-    "pop": 21.5,
-    "region": "Brooklyn"
-  },
-  "NOP": {
-    "abbrev": "NOP",
-    "colors": [
-      "#000000",
-      "#cccccc",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/X7y015c/nop.png",
-    "name": "Pelicans",
-    "pop": 1.1,
-    "region": "New Orleans"
-  },
-  "CHA": {
-    "abbrev": "CHA",
-    "colors": [
-      "#000000",
-      "#cccccc",
-      "#ffffff"
-    ],
-    "imgURL": "https://i.ibb.co/YcDSXKr/cho.png",
-    "name": "Bobcats",
-    "pop": 1.5,
-    "region": "Charlotte"
-  }
+    "ATL": {
+        "abbrev": "ATL",
+        "colors": [
+            "#211e1e",
+            "#5c4a99",
+            "#f0e81c"
+        ],
+        "imgURL": "https://i.ibb.co/gtxfHxm/atl.png",
+        "name": "Hawks",
+        "pop": 5.3,
+        "region": "Atlanta"
+    },
+    "BAL": {
+        "abbrev": "BAL",
+        "colors": [
+            "#213063",
+            "#c5ae6e",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/vkmNKfG/bal.png",
+        "name": "Bullets",
+        "pop": 2.7,
+        "region": "Baltimore"
+    },
+    "BOS": {
+        "abbrev": "BOS",
+        "colors": [
+            "#0d435e",
+            "#cccccc",
+            "#f0494a"
+        ],
+        "imgURL": "https://i.ibb.co/vJf2T1n/bos.png",
+        "name": "Celtics",
+        "pop": 7.3,
+        "region": "Boston"
+    },
+    "BRK": {
+        "abbrev": "BKN",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/xfnJVrB/bkn.png",
+        "name": "Nets",
+        "pop": 21.5,
+        "region": "Brooklyn"
+    },
+    "BUF": {
+        "abbrev": "BUF",
+        "colors": [
+            "#6b6b6b",
+            "#dedddd",
+            "#f15d24"
+        ],
+        "imgURL": "https://i.ibb.co/6ssL6PJ/buf.png",
+        "name": "Braves",
+        "pop": 1.1,
+        "region": "Buffalo"
+    },
+    "CAP": {
+        "abbrev": "CAP",
+        "colors": [
+            "#213063",
+            "#c5ae6e",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/r4yTTMZ/cap.png",
+        "name": "Bullets",
+        "pop": 6.2,
+        "region": "Capital"
+    },
+    "CHA": {
+        "abbrev": "CHA",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/YcDSXKr/cho.png",
+        "name": "Bobcats",
+        "pop": 1.5,
+        "region": "Charlotte"
+    },
+    "CHH": {
+        "abbrev": "CHA",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/BrHTNwT/chh.png",
+        "name": "Hornets",
+        "pop": 1.5,
+        "region": "Charlotte"
+    },
+    "CHI": {
+        "abbrev": "CHI",
+        "colors": [
+            "#caeaf9",
+            "#d3d3d3",
+            "#ef670a"
+        ],
+        "imgURL": "https://i.ibb.co/TBQ0C9y/chi.png",
+        "name": "Bulls",
+        "pop": 9.1,
+        "region": "Chicago"
+    },
+    "CHO": {
+        "abbrev": "CHA",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/qYJh78b/cha.png",
+        "name": "Hornets",
+        "pop": 1.5,
+        "region": "Charlotte"
+    },
+    "CHP": {
+        "abbrev": "CHI",
+        "colors": [
+            "#213063",
+            "#c5ae6e",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/sbxrTVN/chp.png",
+        "name": "Packers",
+        "pop": 9.1,
+        "region": "Chicago"
+    },
+    "CHZ": {
+        "abbrev": "CHI",
+        "colors": [
+            "#213063",
+            "#c5ae6e",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/zxDksHY/chz.png",
+        "name": "Zephyrs",
+        "pop": 9.1,
+        "region": "Chicago"
+    },
+    "CIN": {
+        "abbrev": "CIN",
+        "colors": [
+            "#735823",
+            "#e4c649",
+            "#f8e19f"
+        ],
+        "imgURL": "https://i.ibb.co/pnL5vSr/cin.png",
+        "name": "Royals",
+        "pop": 1.6,
+        "region": "Cincinnati"
+    },
+    "CLE": {
+        "abbrev": "CLE",
+        "colors": [
+            "#211e1e",
+            "#3f1c59",
+            "#f8e3cc"
+        ],
+        "imgURL": "https://i.ibb.co/hZZQfGF/cle.png",
+        "name": "Cavaliers",
+        "pop": 1.7,
+        "region": "Cleveland"
+    },
+    "DAL": {
+        "abbrev": "DAL",
+        "colors": [
+            "#2b2e81",
+            "#be2026",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/Jc06vRj/dal.png",
+        "name": "Mavericks",
+        "pop": 6.6,
+        "region": "Dallas"
+    },
+    "DEN": {
+        "abbrev": "DEN",
+        "colors": [
+            "#163a1c",
+            "#216935",
+            "#a1d297"
+        ],
+        "imgURL": "https://i.ibb.co/FYLTG0B/den.png",
+        "name": "Nuggets",
+        "pop": 2.7,
+        "region": "Denver"
+    },
+    "DET": {
+        "abbrev": "DET",
+        "colors": [
+            "#0a1130",
+            "#3a5eab",
+            "#708fc7"
+        ],
+        "imgURL": "https://i.ibb.co/FsZsSv5/det.png",
+        "name": "Pistons",
+        "pop": 4,
+        "region": "Detroit"
+    },
+    "FTW": {
+        "abbrev": "FTW",
+        "colors": [
+            "#0a1130",
+            "#3a5eab",
+            "#708fc7"
+        ],
+        "imgURL": "https://i.ibb.co/KL0nBsW/ftw.png",
+        "name": "Pistons",
+        "pop": 0.4,
+        "region": "Fort Wayne"
+    },
+    "GSW": {
+        "abbrev": "GSW",
+        "colors": [
+            "#0e442e",
+            "#d75f27",
+            "#e7d3ae"
+        ],
+        "imgURL": "https://i.ibb.co/q5vrBkJ/gsw.png",
+        "name": "Warriors",
+        "pop": 6.5,
+        "region": "Golden State"
+    },
+    "HOU": {
+        "abbrev": "HOU",
+        "colors": [
+            "#4c91c2",
+            "#c4c4c3",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/sJhXk8S/hou.png",
+        "name": "Rockets",
+        "pop": 6.2,
+        "region": "Houston"
+    },
+    "IND": {
+        "abbrev": "IND",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/C29mZVD/ind.png",
+        "name": "Pacers",
+        "pop": 1.6,
+        "region": "Indianapolis"
+    },
+    "KCK": {
+        "abbrev": "KC",
+        "colors": [
+            "#735823",
+            "#e4c649",
+            "#f8e19f"
+        ],
+        "imgURL": "https://i.ibb.co/dPshLbD/kck.png",
+        "name": "Kings",
+        "pop": 1.6,
+        "region": "Kansas City"
+    },
+    "KCO": {
+        "abbrev": "KCO",
+        "colors": [
+            "#735823",
+            "#e4c649",
+            "#f8e19f"
+        ],
+        "imgURL": "https://i.ibb.co/gJ4v4rx/kco.png",
+        "name": "Kings",
+        "pop": 1.6,
+        "region": "Kansas City-Omaha"
+    },
+    "LAC": {
+        "abbrev": "LAC",
+        "colors": [
+            "#6b6b6b",
+            "#dedddd",
+            "#f15d24"
+        ],
+        "imgURL": "https://i.ibb.co/PDTbYhm/lac.png",
+        "name": "Clippers",
+        "pop": 15.6,
+        "region": "Los Angeles"
+    },
+    "LAL": {
+        "abbrev": "LAL",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/WWQrnDX/lal.png",
+        "name": "Lakers",
+        "pop": 15.6,
+        "region": "Los Angeles"
+    },
+    "MEM": {
+        "abbrev": "MEM",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/bQ9gZx1/mem.png",
+        "name": "Grizzlies",
+        "pop": 1.3,
+        "region": "Memphis"
+    },
+    "MIA": {
+        "abbrev": "MIA",
+        "colors": [
+            "#4ac1c0",
+            "#d8519d",
+            "#f15949"
+        ],
+        "imgURL": "https://i.ibb.co/2qct221/mia.png",
+        "name": "Heat",
+        "pop": 6.1,
+        "region": "Miami"
+    },
+    "MIL": {
+        "abbrev": "MIL",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/kMk9q24/mil.png",
+        "name": "Bucks",
+        "pop": 1.5,
+        "region": "Milwaukee"
+    },
+    "MIN": {
+        "abbrev": "MIN",
+        "colors": [
+            "#3d2971",
+            "#8accdc",
+            "#ed9a22"
+        ],
+        "imgURL": "https://i.ibb.co/6Hmrrnm/min.png",
+        "name": "Timberwolves",
+        "pop": 2.8,
+        "region": "Minnesota"
+    },
+    "MNL": {
+        "abbrev": "MIN",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/CW9SXHy/mnl.png",
+        "name": "Lakers",
+        "pop": 2.8,
+        "region": "Minneapolis"
+    },
+    "NJN": {
+        "abbrev": "NJ",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/ZN9qL9Z/njn.png",
+        "name": "Nets",
+        "pop": 4.6,
+        "region": "New Jersey"
+    },
+    "NOH": {
+        "abbrev": "NOH",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/jJmfM30/noh.png",
+        "name": "Hornets",
+        "pop": 1.1,
+        "region": "New Orleans"
+    },
+    "NOJ": {
+        "abbrev": "NOJ",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/8g6MxvR/noj.png",
+        "name": "Jazz",
+        "pop": 1.1,
+        "region": "New Orleans"
+    },
+    "NOP": {
+        "abbrev": "NOP",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/X7y015c/nop.png",
+        "name": "Pelicans",
+        "pop": 1.1,
+        "region": "New Orleans"
+    },
+    "NYK": {
+        "abbrev": "NYK",
+        "colors": [
+            "#1e73ba",
+            "#ff8500",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/F32jTfN/nyk.png",
+        "name": "Knicks",
+        "pop": 21.5,
+        "region": "New York"
+    },
+    "NYN": {
+        "abbrev": "NYN",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/GMDw781/nyn.png",
+        "name": "Nets",
+        "pop": 21.5,
+        "region": "New York"
+    },
+    "OKC": {
+        "abbrev": "OKC",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/cXgLtmz/okc.png",
+        "name": "Thunder",
+        "pop": 1.4,
+        "region": "Oklahoma City"
+    },
+    "ORL": {
+        "abbrev": "ORL",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/XtBcWgN/orl.png",
+        "name": "Magic",
+        "pop": 2.2,
+        "region": "Orlando"
+    },
+    "PHI": {
+        "abbrev": "PHI",
+        "colors": [
+            "#3a3a3a",
+            "#bee6f6",
+            "#ffe67b"
+        ],
+        "imgURL": "https://i.ibb.co/KNcpxV2/phi.png",
+        "name": "76ers",
+        "pop": 5.5,
+        "region": "Philadelphia"
+    },
+    "PHO": {
+        "abbrev": "PHX",
+        "colors": [
+            "#231f20",
+            "#c09867",
+            "#d17d2a"
+        ],
+        "imgURL": "https://i.ibb.co/ccZpz4s/phx.png",
+        "name": "Suns",
+        "pop": 4.3,
+        "region": "Phoenix"
+    },
+    "PHW": {
+        "abbrev": "PHI",
+        "colors": [
+            "#0e442e",
+            "#d75f27",
+            "#e7d3ae"
+        ],
+        "imgURL": "https://i.ibb.co/9Hxz69Y/phw.png",
+        "name": "Warriors",
+        "pop": 5.5,
+        "region": "Philadelphia"
+    },
+    "POR": {
+        "abbrev": "POR",
+        "colors": [
+            "#1e1e1e",
+            "#e41d34",
+            "#e7a9cc"
+        ],
+        "imgURL": "https://i.ibb.co/yqnP2pL/por.png",
+        "name": "Trailblazers",
+        "pop": 2,
+        "region": "Portland"
+    },
+    "ROC": {
+        "abbrev": "ROC",
+        "colors": [
+            "#735823",
+            "#e4c649",
+            "#f8e19f"
+        ],
+        "imgURL": "https://i.ibb.co/J7C6BtG/roc.png",
+        "name": "Royals",
+        "pop": 1.08,
+        "region": "Rochester"
+    },
+    "SAC": {
+        "abbrev": "SAC",
+        "colors": [
+            "#735823",
+            "#e4c649",
+            "#f8e19f"
+        ],
+        "imgURL": "https://i.ibb.co/YN1zMRv/sac.png",
+        "name": "Kings",
+        "pop": 1.8,
+        "region": "Sacramento"
+    },
+    "SAS": {
+        "abbrev": "SAS",
+        "colors": [
+            "#30d9ff",
+            "#4a2b14",
+            "#704723"
+        ],
+        "imgURL": "https://i.ibb.co/NFQjBb1/sas.png",
+        "name": "Spurs",
+        "pop": 2,
+        "region": "San Antonio"
+    },
+    "SDC": {
+        "abbrev": "SD",
+        "colors": [
+            "#6b6b6b",
+            "#dedddd",
+            "#f15d24"
+        ],
+        "imgURL": "https://i.ibb.co/9hGc6gH/sdc.png",
+        "name": "Clippers",
+        "pop": 4.7,
+        "region": "San Diego"
+    },
+    "SDR": {
+        "abbrev": "SDR",
+        "colors": [
+            "#4c91c2",
+            "#c4c4c3",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/gVz9rxn/sdr.png",
+        "name": "Rockets",
+        "pop": 4.7,
+        "region": "San Diego"
+    },
+    "SEA": {
+        "abbrev": "SEA",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/j5DhX8t/sea.png",
+        "name": "Supersonics",
+        "pop": 3.8,
+        "region": "Seattle"
+    },
+    "SFW": {
+        "abbrev": "SF",
+        "colors": [
+            "#0e442e",
+            "#d75f27",
+            "#e7d3ae"
+        ],
+        "imgURL": "https://i.ibb.co/Zm9VS7S/sfw.png",
+        "name": "Warriors",
+        "pop": 6.5,
+        "region": "San Francisco"
+    },
+    "STL": {
+        "abbrev": "STL",
+        "colors": [
+            "#211e1e",
+            "#5c4a99",
+            "#f0e81c"
+        ],
+        "imgURL": "https://i.ibb.co/P1pkMq5/stl.png",
+        "name": "Hawks",
+        "pop": 2.2,
+        "region": "St. Louis"
+    },
+    "SYR": {
+        "abbrev": "SYR",
+        "colors": [
+            "#3a3a3a",
+            "#bee6f6",
+            "#ffe67b"
+        ],
+        "imgURL": "https://i.ibb.co/qWHx4Mv/syr.png",
+        "name": "Nationals",
+        "pop": 0.6,
+        "region": "Syracuse"
+    },
+    "TOR": {
+        "abbrev": "TOR",
+        "colors": [
+            "#331b16",
+            "#5e372c",
+            "#832525"
+        ],
+        "imgURL": "https://i.ibb.co/J2wfCsv/tor.png",
+        "name": "Raptors",
+        "pop": 6.6,
+        "region": "Toronto"
+    },
+    "UTA": {
+        "abbrev": "UTA",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/52JqWtJ/uta.png",
+        "name": "Jazz",
+        "pop": 2.3,
+        "region": "Utah"
+    },
+    "VAN": {
+        "abbrev": "VAN",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/10qqLdV/van.png",
+        "name": "Grizzlies",
+        "pop": 2.3,
+        "region": "Vancouver"
+    },
+    "WAS": {
+        "abbrev": "WAS",
+        "colors": [
+            "#213063",
+            "#c5ae6e",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/GcdwLvr/was.png",
+        "name": "Wizards",
+        "pop": 6.2,
+        "region": "Washington"
+    },
+    "WSB": {
+        "abbrev": "WSB",
+        "colors": [
+            "#213063",
+            "#c5ae6e",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/hRL3mCd/wsb.png",
+        "name": "Bullets",
+        "pop": 6.2,
+        "region": "Washington"
+    }
 }
