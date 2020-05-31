@@ -264,7 +264,7 @@
         "region": "Kansas City"
     },
     "KCO": {
-        "abbrev": "KCO",
+        "abbrev": "KC-O",
         "colors": [
             "#735823",
             "#e4c649",
@@ -372,7 +372,7 @@
         "region": "New Jersey"
     },
     "NOH": {
-        "abbrev": "NOH",
+        "abbrev": "NO",
         "colors": [
             "#000000",
             "#cccccc",
@@ -660,7 +660,7 @@
         "region": "Washington"
     },
     "WSB": {
-        "abbrev": "WSB",
+        "abbrev": "WAS",
         "colors": [
             "#213063",
             "#c5ae6e",
@@ -670,5 +670,197 @@
         "name": "Bullets",
         "pop": 6.2,
         "region": "Washington"
+    },
+    "BLB": {
+        "abbrev": "BAL",
+        "colors": [
+            "#213063",
+            "#c5ae6e",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/xg3Dw5Z/blb.png",
+        "name": "Bullets",
+        "pop": 2.7,
+        "region": "Baltimore"
+    },
+    "CHS": {
+        "abbrev": "CHI",
+        "colors": [
+            "#ef670a",
+            "#caeaf9",
+            "#d3d3d3"
+        ],
+        "imgURL": "https://i.ibb.co/bJDHK7d/chs.png",
+        "name": "Stags",
+        "pop": 9.1,
+        "region": "Chicago"
+    },
+    "CLR": {
+        "abbrev": "CLE",
+        "colors": [
+            "#211e1e",
+            "#f8e3cc",
+            "#3f1c59"
+        ],
+        "imgURL": "https://i.ibb.co/rbc7Yky/clr.png",
+        "name": "Rebels",
+        "pop": 1.7,
+        "region": "Cleveland"
+    },
+    "PIT": {
+        "abbrev": "PIT",
+        "colors": [
+            "#fbee28",
+            "#231f20",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/2g32Xq1/pit.png",
+        "name": "Ironmen",
+        "pop": 1.7,
+        "region": "Pittsburgh"
+    },
+    "PRO": {
+        "abbrev": "PRO",
+        "colors": [
+            "#1c73bb",
+            "#ffd600",
+            "#0c5983"
+        ],
+        "imgURL": "https://i.ibb.co/9ncfmZx/pro.png",
+        "name": "Steamrollers",
+        "pop": 0.2,
+        "region": "Providence"
+    },
+    "STB": {
+        "abbrev": "STL",
+        "colors": [
+            "#c0c1c2",
+            "#133cd1",
+            "#3a3a3a"
+        ],
+        "imgURL": "https://i.ibb.co/2Ks1DrH/stb.png",
+        "name": "Bombers",
+        "pop": 2.2,
+        "region": "St. Louis"
+    },
+    "TRH": {
+        "abbrev": "TOR",
+        "colors": [
+            "#832525",
+            "#5e372c",
+            "#331b16"
+        ],
+        "imgURL": "https://i.ibb.co/m8vpRBj/trh.png",
+        "name": "Huskies",
+        "pop": 6.6,
+        "region": "Toronto"
+    },
+    "WSC": {
+        "abbrev": "WAS",
+        "colors": [
+            "#7a1319",
+            "#89bfd3",
+            "#07364f"
+        ],
+        "imgURL": "https://i.ibb.co/P68ZR5q/wsc.png",
+        "name": "Capitols",
+        "pop": 6.2,
+        "region": "Washington"
+    },
+    "INJ": {
+        "abbrev": "IND",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/71s8G3h/inj.png",
+        "name": "Jets",
+        "pop": 1.6,
+        "region": "Indianapolis"
+    },
+    "AND": {
+        "abbrev": "AND",
+        "colors": [
+            "#1a9190",
+            "#510f0f",
+            "#eb5924"
+        ],
+        "imgURL": "https://i.ibb.co/fH5fcsB/and.png",
+        "name": "Packers",
+        "pop": 0.1,
+        "region": "Anderson"
+    },
+    "INO": {
+        "abbrev": "IND",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/FbDRZzQ/ino.png",
+        "name": "Olympians",
+        "pop": 1.6,
+        "region": "Indianapolis"
+    },
+    "SHE": {
+        "abbrev": "SHE",
+        "colors": [
+            "#000000",
+            "#cccccc",
+            "#ffffff"
+        ],
+        "imgURL": "https://i.ibb.co/zm4xN6p/she.png",
+        "name": "Red Skins",
+        "pop": 0.1,
+        "region": "Sheboygan"
+    },
+    "WAT": {
+        "abbrev": "WAT",
+        "colors": [
+            "#8f2100",
+            "#ffb500",
+            "#d4731c"
+        ],
+        "imgURL": "https://i.ibb.co/H4B2w3Q/wat.png",
+        "name": "Hawks",
+        "pop": 0.1,
+        "region": "Waterloo"
+    },
+    "TRI": {
+        "abbrev": "TRI",
+        "colors": [
+            "#5c4a99",
+            "#f0e81c",
+            "#211e1e"
+        ],
+        "imgURL": "https://i.ibb.co/kMv4n23/tri.png",
+        "name": "Black Hawks",
+        "pop": 0.4,
+        "region": "Tri-Cities"
+    },
+    "DNN": {
+        "abbrev": "DEN",
+        "colors": [
+          "#216935",
+          "#163a1c",
+          "#a1d297"
+        ],
+        "imgURL": "https://i.ibb.co/FYxrRCX/dnn.png",
+        "name": "Nuggets",
+        "pop": 2.7,
+        "region": "Denver"
+      },
+    "DTF": {
+        "abbrev": "DET",
+        "colors": [
+            "#3a5eab",
+            "#708fc7",
+            "#0a1130"
+        ],
+        "imgURL": "https://i.ibb.co/R2rgyZn/dtf.png",
+        "name": "Falcons",
+        "pop": 4,
+        "region": "Detroit"
     }
 }
