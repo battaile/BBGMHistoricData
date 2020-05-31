@@ -36,7 +36,7 @@
         "region": "Baltimore"
     },
     "BLB": {
-        "abbrev": "BAL",
+        "abbrev": "BAL-B",
         "colors": [
             "#213063",
             "#c5ae6e",
@@ -96,7 +96,7 @@
         "region": "Capital"
     },
     "CHA": {
-        "abbrev": "CHA",
+        "abbrev": "CHA-B",
         "colors": [
             "#000000",
             "#cccccc",
@@ -108,7 +108,7 @@
         "region": "Charlotte"
     },
     "CHH": {
-        "abbrev": "CHA",
+        "abbrev": "CHA-H",
         "colors": [
             "#000000",
             "#cccccc",
@@ -156,7 +156,7 @@
         "region": "Chicago"
     },
     "CHS": {
-        "abbrev": "CHI",
+        "abbrev": "CHI-S",
         "colors": [
             "#caeaf9",
             "#d3d3d3",
@@ -168,7 +168,7 @@
         "region": "Chicago"
     },
     "CHZ": {
-        "abbrev": "CHI",
+        "abbrev": "CHI-Z",
         "colors": [
             "#213063",
             "#c5ae6e",
@@ -204,7 +204,7 @@
         "region": "Cleveland"
     },
     "CLR": {
-        "abbrev": "CLE",
+        "abbrev": "CLE-R",
         "colors": [
             "#211e1e",
             "#3f1c59",
@@ -252,7 +252,7 @@
         "region": "Detroit"
     },
     "DNN": {
-        "abbrev": "DEN",
+        "abbrev": "DEN-N",
         "colors": [
             "#163a1c",
             "#216935",
@@ -264,7 +264,7 @@
         "region": "Denver"
     },
     "DTF": {
-        "abbrev": "DET",
+        "abbrev": "DET-F",
         "colors": [
             "#0a1130",
             "#3a5eab",
@@ -324,7 +324,7 @@
         "region": "Indianapolis"
     },
     "INJ": {
-        "abbrev": "IND",
+        "abbrev": "IND-J",
         "colors": [
             "#000000",
             "#cccccc",
@@ -336,7 +336,7 @@
         "region": "Indianapolis"
     },
     "INO": {
-        "abbrev": "IND",
+        "abbrev": "IND-O",
         "colors": [
             "#000000",
             "#cccccc",
@@ -360,7 +360,7 @@
         "region": "Kansas City"
     },
     "KCO": {
-        "abbrev": "KC-O",
+        "abbrev": "KCO",
         "colors": [
             "#735823",
             "#e4c649",
@@ -444,7 +444,7 @@
         "region": "Minnesota"
     },
     "MLH": {
-        "abbrev": "MIL",
+        "abbrev": "MIL-H",
         "colors": [
             "#211e1e",
             "#5c4a99",
@@ -456,7 +456,7 @@
         "region": "Milwaukee"
     },
     "MNL": {
-        "abbrev": "MIN",
+        "abbrev": "MIN-L",
         "colors": [
             "#000000",
             "#cccccc",
@@ -480,7 +480,7 @@
         "region": "New Jersey"
     },
     "NOH": {
-        "abbrev": "NO",
+        "abbrev": "NO-H",
         "colors": [
             "#000000",
             "#cccccc",
@@ -492,7 +492,7 @@
         "region": "New Orleans"
     },
     "NOJ": {
-        "abbrev": "NOJ",
+        "abbrev": "NO-J",
         "colors": [
             "#000000",
             "#cccccc",
@@ -588,7 +588,7 @@
         "region": "Phoenix"
     },
     "PHW": {
-        "abbrev": "PHI",
+        "abbrev": "PHI-W",
         "colors": [
             "#0e442e",
             "#d75f27",
@@ -684,7 +684,7 @@
         "region": "San Diego"
     },
     "SDR": {
-        "abbrev": "SDR",
+        "abbrev": "SD-R",
         "colors": [
             "#4c91c2",
             "#c4c4c3",
@@ -732,7 +732,7 @@
         "region": "Sheboygan"
     },
     "STB": {
-        "abbrev": "STL",
+        "abbrev": "STL-B",
         "colors": [
             "#133cd1",
             "#3a3a3a",
@@ -780,7 +780,7 @@
         "region": "Toronto"
     },
     "TRH": {
-        "abbrev": "TOR",
+        "abbrev": "TOR-H",
         "colors": [
             "#331b16",
             "#5e372c",
@@ -852,7 +852,7 @@
         "region": "Waterloo"
     },
     "WSB": {
-        "abbrev": "WAS",
+        "abbrev": "WAS-B",
         "colors": [
             "#213063",
             "#c5ae6e",
@@ -864,7 +864,7 @@
         "region": "Washington"
     },
     "WSC": {
-        "abbrev": "WAS",
+        "abbrev": "WAS-C",
         "colors": [
             "#07364f",
             "#7a1319",
