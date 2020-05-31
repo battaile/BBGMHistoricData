@@ -851,6 +851,18 @@
         "pop": 2.7,
         "region": "Denver"
       },
+      "MLH": {
+        "abbrev": "MIL",
+        "colors": [
+          "#5c4a99",
+          "#f0e81c",
+          "#211e1e"
+        ],
+        "imgURL": "",
+        "name": "Hawks",
+        "pop": 1.5,
+        "region": "Milwaukee"
+      },
     "DTF": {
         "abbrev": "DET",
         "colors": [
