@@ -36,7 +36,7 @@
         "region": "Baltimore"
     },
     "BLB": {
-        "abbrev": "BAL-B",
+        "abbrev": "BLB",
         "colors": [
             "#213063",
             "#c5ae6e",
@@ -96,7 +96,7 @@
         "region": "Capital"
     },
     "CHA": {
-        "abbrev": "CHA-B",
+        "abbrev": "CHA",
         "colors": [
             "#000000",
             "#cccccc",
@@ -108,7 +108,7 @@
         "region": "Charlotte"
     },
     "CHH": {
-        "abbrev": "CHA-H",
+        "abbrev": "CHH",
         "colors": [
             "#000000",
             "#cccccc",
@@ -132,7 +132,7 @@
         "region": "Chicago"
     },
     "CHO": {
-        "abbrev": "CHA",
+        "abbrev": "CHO",
         "colors": [
             "#000000",
             "#cccccc",
@@ -144,7 +144,7 @@
         "region": "Charlotte"
     },
     "CHP": {
-        "abbrev": "CHI-P",
+        "abbrev": "CHP",
         "colors": [
             "#213063",
             "#c5ae6e",
@@ -156,7 +156,7 @@
         "region": "Chicago"
     },
     "CHS": {
-        "abbrev": "CHI-S",
+        "abbrev": "CHS",
         "colors": [
             "#caeaf9",
             "#d3d3d3",
@@ -168,7 +168,7 @@
         "region": "Chicago"
     },
     "CHZ": {
-        "abbrev": "CHI-Z",
+        "abbrev": "CHZ",
         "colors": [
             "#213063",
             "#c5ae6e",
@@ -204,7 +204,7 @@
         "region": "Cleveland"
     },
     "CLR": {
-        "abbrev": "CLE-R",
+        "abbrev": "CLR",
         "colors": [
             "#211e1e",
             "#3f1c59",
@@ -252,7 +252,7 @@
         "region": "Detroit"
     },
     "DNN": {
-        "abbrev": "DEN-N",
+        "abbrev": "DNN",
         "colors": [
             "#163a1c",
             "#216935",
@@ -264,7 +264,7 @@
         "region": "Denver"
     },
     "DTF": {
-        "abbrev": "DET-F",
+        "abbrev": "DTF",
         "colors": [
             "#0a1130",
             "#3a5eab",
@@ -324,7 +324,7 @@
         "region": "Indianapolis"
     },
     "INJ": {
-        "abbrev": "IND-J",
+        "abbrev": "INJ",
         "colors": [
             "#000000",
             "#cccccc",
@@ -336,7 +336,7 @@
         "region": "Indianapolis"
     },
     "INO": {
-        "abbrev": "IND-O",
+        "abbrev": "INO",
         "colors": [
             "#000000",
             "#cccccc",
@@ -348,7 +348,7 @@
         "region": "Indianapolis"
     },
     "KCK": {
-        "abbrev": "KC",
+        "abbrev": "KCK",
         "colors": [
             "#735823",
             "#e4c649",
@@ -444,7 +444,7 @@
         "region": "Minnesota"
     },
     "MLH": {
-        "abbrev": "MIL-H",
+        "abbrev": "MLH",
         "colors": [
             "#211e1e",
             "#5c4a99",
@@ -456,7 +456,7 @@
         "region": "Milwaukee"
     },
     "MNL": {
-        "abbrev": "MIN-L",
+        "abbrev": "MNL",
         "colors": [
             "#000000",
             "#cccccc",
@@ -468,7 +468,7 @@
         "region": "Minneapolis"
     },
     "NJN": {
-        "abbrev": "NJ",
+        "abbrev": "NJN",
         "colors": [
             "#000000",
             "#cccccc",
@@ -480,7 +480,7 @@
         "region": "New Jersey"
     },
     "NOH": {
-        "abbrev": "NO-H",
+        "abbrev": "NOH",
         "colors": [
             "#000000",
             "#cccccc",
@@ -492,7 +492,7 @@
         "region": "New Orleans"
     },
     "NOJ": {
-        "abbrev": "NO-J",
+        "abbrev": "NOJ",
         "colors": [
             "#000000",
             "#cccccc",
@@ -588,7 +588,7 @@
         "region": "Phoenix"
     },
     "PHW": {
-        "abbrev": "PHI-W",
+        "abbrev": "PHW",
         "colors": [
             "#0e442e",
             "#d75f27",
@@ -684,7 +684,7 @@
         "region": "San Diego"
     },
     "SDR": {
-        "abbrev": "SD-R",
+        "abbrev": "SDR",
         "colors": [
             "#4c91c2",
             "#c4c4c3",
@@ -732,7 +732,7 @@
         "region": "Sheboygan"
     },
     "STB": {
-        "abbrev": "STL-B",
+        "abbrev": "STB",
         "colors": [
             "#133cd1",
             "#3a3a3a",
@@ -780,7 +780,7 @@
         "region": "Toronto"
     },
     "TRH": {
-        "abbrev": "TOR-H",
+        "abbrev": "TRH",
         "colors": [
             "#331b16",
             "#5e372c",
@@ -852,7 +852,7 @@
         "region": "Waterloo"
     },
     "WSB": {
-        "abbrev": "WAS-B",
+        "abbrev": "WSB",
         "colors": [
             "#213063",
             "#c5ae6e",
@@ -864,7 +864,7 @@
         "region": "Washington"
     },
     "WSC": {
-        "abbrev": "WAS-C",
+        "abbrev": "WSC",
         "colors": [
             "#07364f",
             "#7a1319",
