@@ -350,6 +350,7 @@
         "region": "New Orleans"
     },
     "NYK": {
+        "abbrev": "NYK",
         "imgURL": "https://i.ibb.co/9ny8pH1/nyk1947.png",
         "name": "Knicks",
         "region": "New York",
@@ -509,7 +510,7 @@
         "region": "Sheboygan"
     },
     "STB": {
-        "imgURL": "https://i.ibb.co/LdMQzmt/stb.png",
+        "imgURL": "https://i.ibb.co/9tyKVbx/stb.png",
         "name": "Bombers",
         "region": "St. Louis"
     },
