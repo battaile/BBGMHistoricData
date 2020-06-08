@@ -1,6 +1,6 @@
 {
     "AND": {
-        "imgURL": "https://i.ibb.co/C6jWPxq/and.png",
+        "imgURL": "https://i.ibb.co/Sckm3ws/and.png",
         "name": "Packers",
         "region": "Anderson"
     },
@@ -417,7 +417,7 @@
         "region": "Philadelphia",
         "seasons": {
             "1947": { "imgURL": "https://i.ibb.co/68j9rbL/phw1947.png"},
-            "1952": { "imgURL": "https://i.ibb.co/7CTVRj9/phw1952.png"} 
+            "1952": { "imgURL": "https://i.ibb.co/DRkCH3D/phw1952.png"} 
         }
     },
     "PIT": {
