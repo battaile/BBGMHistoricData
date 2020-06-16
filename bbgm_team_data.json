@@ -341,6 +341,7 @@
         }
     },
     "NOJ": {
+        "abbrev": "NOJ",
         "imgURL": "https://i.ibb.co/894qpF7/noj.png",
         "name": "Jazz",
         "region": "New Orleans"
